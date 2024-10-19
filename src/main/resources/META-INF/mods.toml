@@ -1,0 +1,25 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT License"
+
+[[mods]]
+modId="sunrise"
+version="1.20.1"
+logoFile=""
+displayName="Sunrise"
+authors="Cucuber, Ysach"
+description='''Bo'''
+
+[[dependencies.sunrise]]
+modId="forge"
+mandatory=true
+versionRange="47,"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.sunrise]]
+modId="minecraft"
+mandatory=true
+versionRange="1.20.1"
+ordering="NONE"
+side="BOTH"

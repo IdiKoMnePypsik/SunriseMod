@@ -1,0 +1,18 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.monkeybiznec.sunrise.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "sunrise.refmap.json",
+  "mixins": [
+    "common.EntityMixin",
+    "common.LivingEntityMixin"
+  ],
+  "client": [
+    "client.HumanoidModelMixin",
+    "client.LivingEntityRendererMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

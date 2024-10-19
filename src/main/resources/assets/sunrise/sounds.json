@@ -1,0 +1,34 @@
+{
+  "obormot": {
+    "sounds": [
+      {
+        "name": "sunrise:obormot",
+        "stream": true
+      }
+    ]
+  },
+  "elephant_step_0": {
+    "sounds": [
+      {
+        "name": "sunrise:entity/elephant_step_0"
+      }
+    ],
+    "subtitle": "sounds.sunrise.subtitle.elephant_step_0"
+  },
+  "elephant_step_1": {
+    "sounds": [
+      {
+        "name": "sunrise:entity/elephant_step_1"
+      }
+    ],
+    "subtitle": "sounds.sunrise.subtitle.elephant_step_1"
+  },
+  "elephant_step_2": {
+    "sounds": [
+      {
+        "name": "sunrise:entity/elephant_step_2"
+      }
+    ],
+    "subtitle": "sounds.sunrise.subtitle.elephant_step_2"
+  }
+}
